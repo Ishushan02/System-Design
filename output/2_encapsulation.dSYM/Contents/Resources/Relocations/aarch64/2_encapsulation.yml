@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ishananand/Desktop/System-Design/output/2_encapsulation'
+relocations:     []
+...
